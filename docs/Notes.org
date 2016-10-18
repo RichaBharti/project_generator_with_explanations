@@ -1,0 +1,14 @@
+#+TITLE: Project notes XXX
+#+AUTHOR: Konrad U. Förstner                                                                                                                           
+#+EMAIL: konrad.foerstner@uni-wuerzburg.de                                                                                                             
+#+OPTIONS: ^:nil
+
+* Aim of the project
+* People involved
+
+- Konrad Förstner <konrad.foerstner@uni-wuerzburg.de>
+
+* Related literature
+* Background information
+* RNA-Seq Libraries
+* Notes
